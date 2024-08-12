@@ -26,8 +26,8 @@ Prerequisites
 Installation
 
 1. Clone the Repository:
-git clone https://github.com/your-username/geofencing-app.git
-cd geofencing-app
+git clone https://github.com/WapSecure/geofencing.git
+cd geofencing
 
 2. Install Dependencies:
 npm install
